@@ -1,2 +1,0 @@
-# safelink
-file js
